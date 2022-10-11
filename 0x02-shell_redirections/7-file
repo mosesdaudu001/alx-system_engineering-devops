@@ -1,2 +1,2 @@
 #!/bin/bash
-ptintf "best school\n" > "\*\\'"Best School"\'\\*$\?\*\*\*\*\*\:)"
+printf "best school\n" > "\*\\'"Best School"\'\\*$\?\*\*\*\*\*\:)"
